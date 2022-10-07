@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.tobii.xr.sdk": {
-      "version": "file:C:/Users/44469403/Downloads/TobiiXRSDK_3.0.1.179",
+      "version": "file:../TobiiXRSDK_3.0.1.179",
       "depth": 0,
       "source": "local",
       "dependencies": {
@@ -260,7 +260,7 @@
       "url": "https://packages.unity.com"
     },
     "com.valvesoftware.unity.openvr": {
-      "version": "file:C:/Users/44469403/Downloads/com.valvesoftware.unity.openvr-1.1.5.tgz",
+      "version": "file:../com.valvesoftware.unity.openvr-1.1.5.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
